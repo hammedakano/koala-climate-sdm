@@ -1,0 +1,6 @@
+"step","value"
+"raw records","500"
+"removed outside native range","5"
+"after cleaning and thinning","120"
+"background points (one per cell, capped at N_BACKGROUND)","5672"
+"predictors retained","bio5 bio12 bio17 bio15 bio6 bio4 bio9"

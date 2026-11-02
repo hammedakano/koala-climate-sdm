@@ -1,0 +1,7 @@
+data/climate/*
+!data/climate/README.md
+outputs/*.tif
+outputs/*.rds
+.Rhistory
+.RData
+.Rproj.user/
